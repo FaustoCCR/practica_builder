@@ -1,3 +1,5 @@
 - uno
 - dos
 - tres
+
+Java es un lenguaje de programacion multiparadigma
